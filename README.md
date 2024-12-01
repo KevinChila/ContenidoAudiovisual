@@ -53,7 +53,7 @@ El proyecto está organizado en las siguientes carpetas y clases principales:
 
 A continuación se muestra el diagrama de clases actualizado para representar las relaciones entre las principales entidades del sistema:
 
-![](https://i.postimg.cc/JhfLDzPG/Captura-de-pantalla-2024-12-01-000742.png)
+![](https://postimg.cc/wtQPngKp)
 ## Cómo Clonar el Proyecto
 
 Para clonar este repositorio en tu máquina local, puedes usar el siguiente comando:
