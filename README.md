@@ -49,9 +49,16 @@ El proyecto está organizado en las siguientes carpetas y clases principales:
 
 - **`README.md`**: Este archivo, que documenta el proyecto.
 
+## Diagrama de Clases
+
+A continuación se muestra el diagrama de clases actualizado para representar las relaciones entre las principales entidades del sistema:
+
+![Diagrama de Clases](docs/diagrama_clases.png)
+
 ## Cómo Clonar el Proyecto
 
 Para clonar este repositorio en tu máquina local, puedes usar el siguiente comando:
 
 ```bash
 git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+
