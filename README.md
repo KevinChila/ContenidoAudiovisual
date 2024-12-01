@@ -54,7 +54,7 @@ El proyecto está organizado en las siguientes carpetas y clases principales:
 
 A continuación se muestra el diagrama de clases actualizado para representar las relaciones entre las principales entidades del sistema:
 
-![](https://i.postimg.cc/JhfLDzPG/Captura-de-pantalla-2024-12-01-000742.png)
+[![Captura-de-pantalla-2024-12-01-000742.png](https://i.postimg.cc/JhfLDzPG/Captura-de-pantalla-2024-12-01-000742.png)](https://postimg.cc/wtQPngKp)
 
 
 
