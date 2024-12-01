@@ -1,3 +1,4 @@
+
 # Proyecto: Contenido Audiovisual
 
 Este proyecto consiste en un sistema de gestión de contenidos audiovisuales que maneja información sobre **Películas**, **Series de TV**, **Documentales**, **Actores**, **Temporadas** e **Investigadores**. El sistema implementa **principios de código limpio**, el patrón de diseño **MVC**, y sigue los **principios SOLID**. Además, se incluye la funcionalidad de **manejo de archivos CSV** para almacenar y leer datos.
@@ -53,7 +54,10 @@ El proyecto está organizado en las siguientes carpetas y clases principales:
 
 A continuación se muestra el diagrama de clases actualizado para representar las relaciones entre las principales entidades del sistema:
 
-![](https://postimg.cc/wtQPngKp)
+![](https://i.postimg.cc/JhfLDzPG/Captura-de-pantalla-2024-12-01-000742.png)
+
+
+
 ## Cómo Clonar el Proyecto
 
 Para clonar este repositorio en tu máquina local, puedes usar el siguiente comando:
